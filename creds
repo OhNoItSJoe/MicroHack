@@ -18,3 +18,6 @@ On-Prem-Machine User
 MHAdmin
 On-Prem Machine PW
 MHBerlin2024!
+
+$ServicePrincipalId=9bc69471-c265-496f-8d01-8c375c94923f
+$ServicePrincipalClientSecret=z-o8Q~VzdvNBBrxkixbF8VtpJYG~-mxI8vvZXbVl
