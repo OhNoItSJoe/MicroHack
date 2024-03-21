@@ -1,7 +1,7 @@
 try {
     # Add the service principal application ID and secret here
     $ServicePrincipalId="9bc69471-c265-496f-8d01-8c375c94923f";
-    $ServicePrincipalClientSecret="<ENTER SECRET HERE>";
+    $ServicePrincipalClientSecret="z-o8Q~VzdvNBBrxkixbF8VtpJYG~-mxI8vvZXbVl";
 
     $env:SUBSCRIPTION_ID = "61813e03-3991-4886-a129-7cb2828e0fa1";
     $env:RESOURCE_GROUP = "Joe-arc-rg";
